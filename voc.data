@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/kalvm/darknet/scripts/test_train.txt
+valid  = /home/kalvm/darknet/scripts/test_test.txt
+names = /home/kalvm/darknet/data/voc.names
+backup = backup
+
